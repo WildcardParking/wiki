@@ -17,7 +17,7 @@ There are 4 main fields
 It may take few minutes to take effect, and the domain should have the following MX record:
 
 | TYPE | NAME | VALUE |
-| --- | --- |
+| :--- | :--- | :--- |
 | MX | @ | 10 forwarder.wildcardparking.com |
 
 {% hint style="info" %}
